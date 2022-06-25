@@ -1,2 +1,2 @@
 # Customer-Analysis
-Relevant analysis about customers in marketing area.
+Customer analysis in marketing area.
